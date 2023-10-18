@@ -1,0 +1,53 @@
+.menu li{
+    list-style-type: none;
+    
+}
+.menu {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.title {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 10px;
+    color: aliceblue;
+}   
+p  {
+    color: blanchedalmond;
+}
+
+body {
+    background-image: linear-gradient(to right,rgb(33, 204, 227), rgb(71, 178, 235));
+}
+
+.nextpage {
+    text-decoration: none;
+    
+    
+    
+}
+
+.flexMe {
+    border: 2px;
+    display: flex;
+    justify-content: start;
+
+    
+    
+}
+
+.button {
+    margin-right: 50px;
+    border-color: white;
+}
+
+button {
+    
+   
+}
+
+#b1 {
+     border-radius: 12px;
+}
